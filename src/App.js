@@ -11,10 +11,8 @@ const App = () => {
       </div>
       <p>
         If you encounter any bugs, feel free to open issues here:{' '}
-        <a href="https://github.com/shivero/webpack-4-react-bootstrap-starter-template">
-          [Github]
-        </a>
-        .
+        
+        
       </p>
       <p>
         This project can be always better, so if you have ideas - I sincerely
